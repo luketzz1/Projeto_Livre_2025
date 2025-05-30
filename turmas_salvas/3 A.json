@@ -1,0 +1,36 @@
+{
+    "nome": "3 A",
+    "alunos": [
+        {
+            "nome": "Lucas",
+            "email": "lucas.oliveira",
+            "notas": {
+                "Matem\u00e1tica": [
+                    8.0
+                ]
+            }
+        },
+        {
+            "nome": "Rafaela",
+            "email": "rafa.trajano",
+            "notas": {
+                "Portugu\u00eas": [
+                    9.0,
+                    7.0,
+                    10.0
+                ],
+                "Matem\u00e1tica": [
+                    10.0,
+                    10.0,
+                    10.0
+                ]
+            }
+        },
+        {
+            "nome": "Bruno",
+            "email": "bruno.ricardo",
+            "notas": {}
+        }
+    ],
+    "disciplinas": []
+}

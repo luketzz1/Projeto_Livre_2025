@@ -1,0 +1,21 @@
+{
+    "nome": "3 B",
+    "alunos": [
+        {
+            "nome": "Luana",
+            "email": "lua.medeiros",
+            "notas": {}
+        },
+        {
+            "nome": "Bryan",
+            "email": "bryan.leite",
+            "notas": {}
+        },
+        {
+            "nome": "Flavia",
+            "email": "flavia.oliveira",
+            "notas": {}
+        }
+    ],
+    "disciplinas": []
+}

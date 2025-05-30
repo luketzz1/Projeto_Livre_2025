@@ -1,0 +1,25 @@
+{
+    "nome": "3 C",
+    "alunos": [
+        {
+            "nome": "Gabriel",
+            "email": "gabriel.diniz",
+            "notas": {}
+        },
+        {
+            "nome": "Antonio",
+            "email": "antonio.lucas",
+            "notas": {}
+        }
+    ],
+    "disciplinas": [
+        {
+            "nome": "Matem\u00e1tica",
+            "professor": "Alessandro"
+        },
+        {
+            "nome": "Portugu\u00eas",
+            "professor": "Juliana"
+        }
+    ]
+}
